@@ -9,36 +9,37 @@ About **PowerShell**
   "*PowerShell is great because we had a series of rockstar engineers add their awesomeness to the project*." 
   Source: interview with Jeffrey Snover, PowerShell Inventor
 
-Why Learn PowerShell?
-PowerShell is an essential tool for:
-Automating repetitive tasks.
-Managing and configuring systems.
-Working with files, processes, and services.
-Interacting with APIs and web services.
-Writing scripts to solve complex problems.
+## Why Learn PowerShell?
+1. PowerShell is an essential tool for:
+2. Automating repetitive tasks.
+3. Managing and configuring systems.
+4. Working with files, processes, and services.
+5. Interacting with APIs and web services.
+6. Writing scripts to solve complex problems.
 
-PowerShell Features and Terms
-Cmdlets: Lightweight commands that perform specific functions.
-Scripting: Write and execute scripts, series of commands, to automate tasks.
-Pipeline: Chain commands together to pass data between them using |.
-Remote Management: Execute commands on remote systems.
-Modules: Extend functionality with additional cmdlets and scripts.
-Extensibility: Create custom functions, modules, and scripts.
-Cross-Platform: PowerShell Core runs on Windows, macOS, and Linux.
+## PowerShell Features and Terms
+- Cmdlets: Lightweight commands that perform specific functions.
+- Scripting: Write and execute scripts, series of commands, to automate tasks.
+- Pipeline: Chain commands together to pass data between them using |.
+- Remote Management: Execute commands on remote systems.
+- Modules: Extend functionality with additional cmdlets and scripts.
+- Extensibility: Create custom functions, modules, and scripts.
+- Cross-Platform: PowerShell Core runs on Windows, macOS, and Linux.
 
-PowerShell History
+## PowerShell History
 
-PowerShell Version Comparison
-Version:Release Year:Key Features                            
-1.0:2006:Initial release Windows XP SP2 and Windows Server 2003.
-2.0:2009:Introduced remote management and modules.
-5.1:2016:Last Windows-only version               
-6.0:2018:Known as PowerShell Core 6.0. First cross-platform version.
-7.0:2020:Unified Windows PowerShell and PowerShell Core, offering a modern, cross-platform experience.
+### PowerShell Version Comparison
+ Version | Release Year | Key features |
+ ------- | ------------ | ------------ |                     
+ 1.0 | 2006 | Initial release Windows XP SP2 and Windows Server 2003. | 
+ 2.0 | 2009 | Introduced remote management and modules. |
+ 5.1 | 2016 | Last Windows-only version |               
+ 6.0 | 2018 | Known as PowerShell Core 6.0. First cross-platform version. |
+ 7.0 | 2020 | Unified Windows PowerShell and PowerShell Core, offering a modern, cross-platform experience. |
 
-Version Summary
-Windows PowerShell: Versions 1.0 to 5.1 (Windows-only).
-PowerShell Core: Versions 6.0 and above (cross-platform).
+### Version Summary
+**Windows PowerShell:** Versions 1.0 to 5.1 (Windows-only).
+**PowerShell Core:** Versions 6.0 and above (cross-platform).
 
 
 PowerShell for Beginners
