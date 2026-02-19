@@ -56,7 +56,8 @@ About **PowerShell**
 ### Example Script
 
 Here’s a simple script to list all files in a directory and display their sizes:
-``` 
+``` powershell
+
 # Get all files in the current directory
 $files = Get-ChildItem
     
@@ -64,6 +65,7 @@ $files = Get-ChildItem
 foreach ($file in $files) {
 Write-Output "$($file.Name) - $($file.Length) bytes"
 } 
+
 ```
 
 Editors for PowerShell Scripting
