@@ -1,4 +1,4 @@
-![image](IMG_0745.jpg)
+<img src="IMG_0745.jpg" width="130" >
 
 # Krish Patel
 
@@ -12,15 +12,15 @@ Adaptive and Efficient to given tasks with good problem-solving abilities. Greet
 
 **Shoes Salesman**, 10/25 to Current, *Sports Experts - Vaudreuil-Dorion, QC*
 
--Situates Customers to find the right pair of shoes for their desired activity
--Does Stocking and Facing of Footwear Goods
--Answer Customer Questions
+- Situates Customers to find the right pair of shoes for their desired activity
+- Does Stocking and Facing of Footwear Goods
+- Answer Customer Questions
 
 **Bagger**. 10/23 to 10/25, *IGA - Vaudreuil-Dorion, QC*
 
--Bags Customer's Groceries
--Helps in Facing Shelves
--Brings carts inside the store
+- Bags Customer's Groceries
+- Helps in Facing Shelves
+- Brings carts inside the store
 
 ## Skills
 
